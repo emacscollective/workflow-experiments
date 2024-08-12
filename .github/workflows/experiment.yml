@@ -8,3 +8,4 @@ jobs:
     name: Experiment
     uses: emacscollective/workflows/.github/workflows/experiment.yml@main
 # a
+# release
